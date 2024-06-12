@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @SumanthPasupuleti
-- 👀 Fintech professional seeking opportunities to apply Fintech and Data Analytics
-- 🌱 I’m currently learning Data Analytics
--  📫 How to reach me sumanthpasupuleti2001@gmail.com
-
+- Aspiring Analyst | Fintech Enthusiast
+- 👀 Passionate about applying Fintech and Data Analytics
+- 🌱 Currently learning Data Analytics
+- 🔭 Current Endeavors:
+  - Engaged in exciting projects.
+  - Exploring various tools and libraries to enhance my skill set.
+  - Early riser, always driven, and constantly learning in the tech world.
+- 📫 Reach me at sumanthpasupuleti2001@gmail.com
+  For a quick response, DM me on LinkedIn https://www.linkedin.com/in/sumanth-/.
 
 <!---
 SumanthPasupuleti/SumanthPasupuleti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
