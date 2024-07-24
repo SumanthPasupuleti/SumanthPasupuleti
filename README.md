@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SumanthPasupuleti
 - Aspiring Analyst | Fintech Enthusiast
 - 👀 Passionate about applying Fintech and Data Analytics
-- 🌱 Currently learning Data Analytics
 - 🔭 Current Endeavors:
   - Engaged in exciting projects.
   - Exploring various tools and libraries to enhance my skill set.
