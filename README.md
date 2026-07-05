@@ -17,4 +17,4 @@ Currently learning AIOps, MLOps, and LLMOps to move into AI‑first data enginee
 
 - LinkedIn: [linkedin.com/in/sumanthpasupuleti](https://www.linkedin.com/in/sumanthpasupuleti)  
 - GitHub: [github.com/SumanthPasupuleti](https://github.com/SumanthPasupuleti)  
-- Email: _youremail@domain.com_
+
